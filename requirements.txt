@@ -1,0 +1,5 @@
+openai
+PyQt-Fluent-Widgets[full]
+markdown-it-py
+PyQtWebEngine
+mdit-py-plugins

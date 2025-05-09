@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="app">
+    <file>img/icon_black.png</file>
+    <file>img/icon_white.png</file>
+    <file>img/loading.svg</file>
+  </qresource>
+</RCC>

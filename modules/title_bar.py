@@ -76,7 +76,7 @@ class InfoBtnFlyout(AcrylicFlyoutViewBase):
         self.bl2.setObjectName("bl2")
         self.lay2.addWidget(self.bl2)
         self.link = HyperlinkLabel(self.verticalLayoutWidget)
-        self.link.setUrl(QtCore.QUrl("https://github.com/Kevin13305-org/Kevin01"))
+        self.link.setUrl(QtCore.QUrl("https://github.com/XiaoshuDeXiaowo/AiTA"))
         self.link.setObjectName("link")
         self.lay2.addWidget(self.link)
         spacerItem = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
@@ -88,7 +88,7 @@ class InfoBtnFlyout(AcrylicFlyoutViewBase):
         self.subtitle.setText("基于 DeepSeek-V3 | 版本：v0.1 Snapshot")
         self.bl.setText("目前仍处于测试阶段，功能可能不太稳定，遇到问题请理性反馈，谢谢！")
         self.bl2.setText("仓库链接：")
-        self.link.setText("https://github.com/Kevin13305-org/Kevin01")
+        self.link.setText("https://github.com/XiaoshuDeXiaowo/AiTA")
 
     def paintEvent(self, e):
         pass

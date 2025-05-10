@@ -88,7 +88,7 @@ def sendToAi():
     # return f'client.chat.completions.create(\n    model="deepseek-chat",\n    messages={messages},\n    stream=False\n)'
     response = client.chat.completions.create(
         model="deepseek-chat",
-        messages=messages,
+        messages=messages[:-1],
         stream=False
     )
     return response.choices[0].message.content

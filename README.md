@@ -15,9 +15,7 @@
   </a>
 </p>
 
-## 使用说明
-
-<p align="center" style="font-size: 12px">这段文本会告诉你如何自己配置此项目。</p>
+## 源代码使用说明
 
 1. 下载[此项目的源代码](https://github.com/XiaoshuDeXiaowo/AiTA/archive/refs/tags/v0.1_Snapshot.zip)；
 
@@ -36,3 +34,7 @@
 	```
 
 5. 保存，然后就可以运行啦！
+
+## 许可证
+
+GPL-3.0。请在将此程序二次发布时保留此许可证。
